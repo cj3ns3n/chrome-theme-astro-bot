@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "AstroBot: Game of the Year",
+  "theme": {
+    "images" : {
+      "theme_toolbar" : "images/astro-vr-banner.png",
+      "theme_ntp_background" : "images/astro-flying.png",
+      "theme_ntp_attribution" : "images/astro-wave.png"
+    },
+    "icons": { 
+       "16": "astro-icon-16.png", 
+       "48": "astro-icon-48.png", 
+       "128": "astro-icon-128.png" 
+     },
+    "properties" : {
+      "ntp_background_alignment" : "top left",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
